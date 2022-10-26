@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace sharp_26_10_2022_class_abstract
+namespace abstr_Human
 {
-    internal class Class1
+    internal class employer
     {
     }
 }
