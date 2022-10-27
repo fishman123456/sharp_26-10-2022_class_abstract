@@ -19,7 +19,7 @@ class program
 {
     void Main()
     {
-        private_p F = new private_p("1","2",3,"4","5");
+        pri_p F = new pri_p("f","f",8,"gg","ff");
         F.Print();
         
     }

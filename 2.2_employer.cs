@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace abstr_Human
 {
-    internal class employer
+    abstract class employer
     {
     }
 }
