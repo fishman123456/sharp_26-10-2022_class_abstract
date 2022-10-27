@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace abstr_Human
+﻿namespace abstr_Human
 {
     abstract class buyer : Human// абстрактных покупатель (тип расчета)
 
@@ -17,8 +11,9 @@ namespace abstr_Human
         }
         public override void Print()
         {
-            Console.WriteLine("\tИмя\t" + _Name + "\tФамилия\t" +
-                _Soname + "\tВозраст\t" + _Age + "\t Тип расчета\t" + _Cost_type + "\n");
+            Console.WriteLine("\tИмя: " + _Name + "\nФамилия: " +
+                _Soname + "\nВозраст: " + _Age + "\n Тип расчета:" + 
+                _Cost_type + "\n");
         }
     }
 }

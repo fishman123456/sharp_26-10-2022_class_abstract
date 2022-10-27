@@ -20,8 +20,8 @@ namespace abstr_Human
       
         public virtual void Print()
         {
-            Console.WriteLine("\tИмя\t" + _Name + "\tФамилия\t" +
-                _Soname + "\tВозраст\t" + _Age + "\n");
+            Console.WriteLine("\nИмя: " + _Name + "\nФамилия: " +
+                _Soname + "\nВозраст: " + _Age + "\n");
         }
 
     }

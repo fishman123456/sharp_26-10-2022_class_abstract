@@ -8,3 +8,13 @@ C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\De
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.AssemblyInfoInputs.cache
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.AssemblyInfo.cs
 C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\bin\Debug\net6.0\sharp_26-10-2022_class_abstract.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\bin\Debug\net6.0\sharp_26-10-2022_class_abstract.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\bin\Debug\net6.0\sharp_26-10-2022_class_abstract.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\bin\Debug\net6.0\sharp_26-10-2022_class_abstract.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\bin\Debug\net6.0\sharp_26-10-2022_class_abstract.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\refint\sharp_26-10-2022_class_abstract.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\ref\sharp_26-10-2022_class_abstract.dll

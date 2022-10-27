@@ -13,14 +13,8 @@
 // водитель (автомобиль, номер ТС)
 // Для всех классов создать конструкторы и метод Print работающий с base 
 using abstr_Human;
-using System;
-using static System.Console;
-class program
-{
-    void Main()
-    {
-        pri_p F = new pri_p("f","f",8,"gg","ff");
+
+pri_p F = new pri_p("Юльчик","Кошечка",8,"карточка","Делёкий берег моря");
         F.Print();
         
-    }
-}
+

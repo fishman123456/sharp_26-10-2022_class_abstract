@@ -1,6 +1,4 @@
-﻿
-
-namespace abstr_Human
+﻿namespace abstr_Human
 {
   class pri_p : buyer //частное лицо (адрес доставки)
     {
@@ -17,8 +15,8 @@ namespace abstr_Human
         }
         public override void Print()
         {
-            Console.WriteLine("\tИмя\t" + _Name + "\tФамилия\t" +
-                _Soname + "\tВозраст\t" + _Age + "\t Тип расчета\t" + _Cost_type +"\t Адрес\t"+_Address +"\n");
+            Console.WriteLine("\nИмя: " + _Name + "\nФамилия: " +
+                _Soname + "\nВозраст: " + _Age + "\nТип расчета: " + _Cost_type +"\nАдрес: "+_Address +"\n");
         }
     }
 }
