@@ -11,20 +11,14 @@ namespace abstr_Human
         public string _Name;
         public string _Soname;
         public int _Age;
-
-  
-        public Human(string Name, string Soneme, int Age)
+        public Human(string Name, string Soneme, int Age)//создать абстрактный класс Человек (имя фамилия возраст)
         {
             _Name = Name;
             _Soname = Soneme;
             _Age = Age;
         }
-        public override string ToString()
-        {
-            return base.ToString();
-
-        }
-        public void Print()
+      
+        public virtual void Print()
         {
             Console.WriteLine("\tИмя\t" + _Name + "\tФамилия\t" +
                 _Soname + "\tВозраст\t" + _Age + "\n");

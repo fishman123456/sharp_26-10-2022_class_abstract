@@ -12,7 +12,14 @@
 // работник склада (отдел за который ответственнен)
 // водитель (автомобиль, номер ТС)
 // Для всех классов создать конструкторы и метод Print работающий с base 
-namespace abstr_Human;
-
-
-new Human human();
+using abstr_Human;
+using System;
+using static System.Console;
+class program
+{
+    void Main()
+    {
+        Human F;
+        Human G;
+    }
+}

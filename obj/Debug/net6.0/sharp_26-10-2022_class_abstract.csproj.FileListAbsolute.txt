@@ -3,3 +3,8 @@ C:\Users\profi\Documents\Git Hub\sharp_26-10-2022_class_abstract\obj\Debug\net6.
 C:\Users\profi\Documents\Git Hub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.AssemblyInfoInputs.cache
 C:\Users\profi\Documents\Git Hub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.AssemblyInfo.cs
 C:\Users\profi\Documents\Git Hub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\sharp_26-10-2022_class_abstract\obj\Debug\net6.0\sharp_26-10-2022_class_abstract.csproj.CoreCompileInputs.cache
