@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="abstr_Human.Human">
-    <Position X="7.75" Y="4.5" Width="1.5" />
+    <Position X="7.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAIBAAAAAAIAAAAAAAAAAEAAA=</HashCode>
       <FileName>1_Human.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="abstr_Human.buyer">
-    <Position X="10.5" Y="4.5" Width="1.5" />
+    <Position X="10.5" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
       <FileName>2.1_buyer.cs</FileName>
@@ -31,6 +31,13 @@
   <Class Name="System.Object">
     <Position X="4.75" Y="0.5" Width="1.5" />
     <TypeIdentifier />
+  </Class>
+  <Class Name="abstr_Human.private_p" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>2.1.1_private_person.cs</FileName>
+    </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

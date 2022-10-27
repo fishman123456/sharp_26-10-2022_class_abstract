@@ -19,7 +19,8 @@ class program
 {
     void Main()
     {
-        Human F;
-        Human G;
+        private_p F = new private_p("1","2",3,"4","5");
+        F.Print();
+        
     }
 }
