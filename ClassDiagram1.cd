@@ -21,13 +21,6 @@
       <FileName>2.2_employer.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="abstr_Human.director">
-    <Position X="2.25" Y="4.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>2.3_director.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="System.Object">
     <Position X="4.75" Y="0.5" Width="1.5" />
     <TypeIdentifier />
