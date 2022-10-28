@@ -11,7 +11,8 @@ namespace abstr_Human
 
     {
         public string _department;
-        public worker(string Name, string Soneme, int Age, string department) : base(Name, Soneme, Age)
+        public worker(string Name, string Soneme, int Age, string Cost_type,string department):
+            base(Name, Soneme, Age, Cost_type)
         {
             _department = department;
         }
@@ -22,4 +23,5 @@ namespace abstr_Human
                 _department + "\n");
         }
     }
+}
 
