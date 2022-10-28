@@ -13,8 +13,17 @@
 // водитель (автомобиль, номер ТС)+
 // Для всех классов создать конструкторы и метод Print работающий с base 
 using abstr_Human;
+Console.WriteLine("Класс человек метод Print: Ошибка\t"+
+    "\nCS0144 Не удается создать экземпляр абстрактного типа или интерфейса \"Human\"\n");
+//Human chel = new Human("Ula","Lov",39); //Ошибка	CS0144	Не удается создать экземпляр абстрактного типа или интерфейса "Human"	
+Console.WriteLine("Класс директор метод Print: \n");
+director d = new director("Den", "Fi", 41, "102");
+d.Print();
+Console.WriteLine("Класс покупатель частное лицо метод Print: \n");
+pri_p F = new pri_p("Ю", "К", 8, "К", "Делёкий берег");
+F.Print();
+Console.WriteLine("Класс покупатель юридическое лицо метод Print: \n");
+pri_p F = new pri_p("Ю", "К", 8, "К", "Делёкий берег");
+F.Print();
 
-pri_p F = new pri_p("Ю","К",8,"К","Делёкий берег");
-        F.Print();
-        
 

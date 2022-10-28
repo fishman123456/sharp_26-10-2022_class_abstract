@@ -1,35 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="abstr_Human.Human">
-    <Position X="7.75" Y="3.5" Width="1.5" />
+    <Position X="9.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAIBAAAAAAIAAAAAAAAAAEAAA=</HashCode>
       <FileName>1_Human.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="abstr_Human.buyer">
-    <Position X="10.5" Y="3.5" Width="1.5" />
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="abstr_Human.Human" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="2.632" />
+        <Point X="10.25" Y="2.875" />
+        <Point X="15.188" Y="2.875" />
+        <Point X="15.188" Y="3.5" />
+      </Path>
+    </InheritanceLine>
     <TypeIdentifier>
       <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
-      <FileName>2.1_buyer.cs</FileName>
+      <FileName>2.1.0_buyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="abstr_Human.pri_p">
+    <Position X="12.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>2.1.1_priv_p.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="abstr_Human.employer">
-    <Position X="4.25" Y="4.5" Width="1.5" />
+    <Position X="4.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>2.2_employer.cs</FileName>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>2.2.0_employer.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="System.Object">
-    <Position X="4.75" Y="0.5" Width="1.5" />
-    <TypeIdentifier />
-  </Class>
-  <Class Name="abstr_Human.pri_p">
-    <Position X="10.5" Y="6" Width="1.5" />
+  <Class Name="abstr_Human.manager">
+    <Position X="7" Y="5.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAA=</HashCode>
-      <FileName>2.1.1_private_person.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECAA=</HashCode>
+      <FileName>2.2.1_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="abstr_Human.driver">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>2.2.2_driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="abstr_Human.worker">
+    <Position X="1.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECAA=</HashCode>
+      <FileName>2.2.3_worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="abstr_Human.director">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>2.3_director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sharp_26_10_2022_class_abstract.legal_entity">
+    <Position X="15" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>2.1.2_legal_entity.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

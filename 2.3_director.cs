@@ -11,8 +11,8 @@ namespace abstr_Human
         }
         public override void Print()
         {
-            Console.WriteLine("\tИмя: " + _Name + "\nФамилия: " +
-                _Soname + "\nВозраст: " + _Age + "\n Тип расчета:" +
+            Console.WriteLine("Имя: " + _Name + "\nФамилия: " +
+                _Soname + "\nВозраст: " + _Age + "\nНомер кабинета: " +
                 _Add_cab + "\n");
         }
     }
